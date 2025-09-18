@@ -1,8 +1,8 @@
 # Nicole Nos Villalvazo
 
 # NB! Set your site's url, otherwise nothing will work
-url: "htpps:/Nos-VillalvazoNicole.github.io"
-baseurl: "/personal-jekyll-theme"
+url: "htpps:/NosVillalvazoNicole.github.io"
+baseurl: "/"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
