@@ -95,12 +95,12 @@ author_blurb:
 social:
   - icon: "github"
     url: "https://github.com/le4ker/personal-jekyll-theme"
-  - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+  #- icon: "linkedin-in"
+   # url: "https://www.linkedin.com"
+ # - icon: "x-twitter"
+   # url: "https://twitter.com/"
+ # - icon: "rss"
+ #   url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
