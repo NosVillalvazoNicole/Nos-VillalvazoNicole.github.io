@@ -1,7 +1,7 @@
 # Nicole Nos Villalvazo
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io"
+url: "htpps:/Nos-VillalvazoNicole.github.io"
 baseurl: "/personal-jekyll-theme"
 
 # Google tracking id
@@ -12,16 +12,16 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+author: "Nicole Nos Villalvazo"
+title: "{NIKITO}"
+description: "me llamo Nicole, soy una persona responsable y siempre me esfuerzo por hacer sonreír a la gente y que se sientan escuchados. Pasé la mayor parte de mi infancia estudiando danza moderna, así que la dedicación y el trabajo en equipo son mis puntos fuertes."
+keywords: "Nos Villalvazo, Nicole, personal."
+favicon: "109-1095724_view-favicon-on-t-shirt-cute-favicon.png"
 ################
 # Header layout#
 ################
-black-favicon: "/img/black-lab-glass.ico"
-background-img: "intro-bg.jpg"
+black-favicon: "910856.png"
+background-img: "fondo.jpg "
 
 ##############################
 # Dynamic Text on the Header #
