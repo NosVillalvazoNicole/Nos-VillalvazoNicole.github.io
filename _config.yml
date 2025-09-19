@@ -20,7 +20,7 @@ favicon: "iconsmelody.png"
 ################
 # Header layout#
 ################
-black-favicon: "910856.png"
+black-favicon: " "
 background-img: "fondo.jpg"
 
 ##############################
@@ -28,7 +28,7 @@ background-img: "fondo.jpg"
 ##############################
 
 quote:"Un blog y demás"
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/sanrio.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -59,7 +59,7 @@ events:
   - image: "/img/timeline/sanrio.png"
     date: "Agosto 11, 2025"
     description: "Primer día de universidad"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/.jpg"
     date: "Junio 16, 2025"
     description: "Día de gradución"
 
