@@ -39,15 +39,7 @@ me-img: "/img/sanrio.png"
 
 post-preview-words: "Avanzamos tan rápido que olvidamos disfrutar el recorrido y al llegar a uno de nuestros muchos destinos queremos volver un momento" 
 paginate: 5 
-email-share: True
-fb-share: True
-twitter-share: false
-linkedin-share: False
-reddit-share: false
-tumblr-share: false
-pinterest-share: false
-pocket-share: false
-vkontakte-share: false
+email-share: "nvillalvazo97@gmail.com"
 
 disqus-shortname: "Nicole Nos"
 
@@ -56,10 +48,10 @@ disqus-shortname: "Nicole Nos"
 ############
 
 events:
-  - image: "/img/timeline/sanrio.png"
+  - image: "/.png"
     date: "Agosto 11, 2025"
     description: "Primer día de universidad"
-  - image: "/img/timeline/.jpg"
+  - image: "//.jpg"
     date: "Junio 16, 2025"
     description: "Día de gradución"
 
@@ -88,20 +80,17 @@ author_blurb:"Es un espacio creado por mí para hablar, idear y conforme la marc
 
 social:
   - icon: "Github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
-  #- icon: "instagram"
-   # url: "https://www.instagram.com/this_nickito?utm_source=qr&igsh=OWloczB4bDdzcWJq"
- # - icon: "x-twitter"
-   # url: "https://twitter.com/"
- # - icon: "rss"
- #   url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+    url: "https://github.com/NosVillalvazoNicole"
 
 # NB! Tread carefully if you want to change the variables below this point!
 
 # Sections shown in the index page
 pages_list:
-  About: "about"
+  About: "about me"
+  "Tengo 18 años, cada 19 de julio celebró mi día especial, actualmente estudió la Licenciatura de Negocios Internacionales"
+  "Espero seguir aprendiendo de Inglés y mejorar mi pronunciación y lograr aprender portugués, es una lengua que me gusta mucho"
   Blog: "latest-post"
+  
   Contact: "9981929944"
 # Exclusion list from the generated _site
 exclude:
