@@ -27,7 +27,7 @@ background-img: "fondo.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote:       "is it better to speak or to die?"
+quote:       "Un blog y cositas más"
 me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
@@ -37,7 +37,7 @@ me-img: "/img/jetpacktocat.png"
 # Blog #
 ########
 
-post-preview-words: "A veces olvidamos lo rápido que queremos avanzar que olvidamos disfrutar el recorrido y al llegar a uno de nuestros muchos destinos queremos volver al pasado pero eso es una imposibilidad." 
+post-preview-words: "Avanzamos tan rápido que olvidamos disfrutar el recorrido y al llegar a uno de nuestros muchos destinos queremos volver un momento" 
 paginate: 5 
 email-share: True
 fb-share: True
