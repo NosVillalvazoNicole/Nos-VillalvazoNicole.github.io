@@ -41,7 +41,7 @@ post-preview-words: 55
 paginate: 5 
 email-share: True
 fb-share: True
-twitter-share: True
+twitter-share: false
 linkedin-share: False
 reddit-share: false
 tumblr-share: false
@@ -79,14 +79,9 @@ email: "nvillalvazo97@gmail.com"
 # The author blurb goes underneath blog posts.
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/huevitoconfresa.png"
 author_blurb:
-  "'Github''s Octocat was designed by Simon Oxley, alongside the white bird Twitter
-  used (before they received a proper logo) as part of a usual routine of cranking
-  out images for iStock. GitHub saw it, and wanted it, presumably under the notion
-  that it can represent how complex code combines to create peculiar things, much
-  like the octopuss... except the CEO of GitHub called it an octocat, and it has
-  been the octocat since then."
+  "'Es para compartir un poco de mí"
 
 ##################
 # Social Buttons #
@@ -109,7 +104,7 @@ pages_list:
   About: "about"
   Blog: "latest-post"
   Timeline: "timeline"
-  Contact: "contact"
+  Contact: "9981929944"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
