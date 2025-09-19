@@ -13,7 +13,7 @@ google-tracking-id: "UA-XXXXXXXX-X"
 
 lang: "en"
 author: "Nicole Nos Villalvazo"
-title: "{NIKITO}"
+title: "NIKITO"
 description: "me llamo Nicole, soy una persona responsable y siempre me esfuerzo por hacer sonreír a la gente y que se sientan escuchados. Pasé la mayor parte de mi infancia estudiando danza moderna, así que la dedicación y el trabajo en equipo son mis puntos fuertes."
 keywords: "Nos Villalvazo, Nicole, personal."
 favicon: "iconsmelody.png"
@@ -27,7 +27,7 @@ background-img: "fondo.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "is it better to speak or to die?"
+quote:       "is it better to speak or to die?"
 me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
@@ -56,7 +56,7 @@ disqus-shortname: "personal and easy"
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/sanrio.png"
     date: "Agosto 11, 2025"
     description: "Primer día de universidad"
   - image: "/img/timeline/baracktocat.jpg"
@@ -80,8 +80,7 @@ email: "nvillalvazo97@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 author_blurb_image: "/img/huevitoconfresa.png"
-author_blurb:
-  "'Es para compartir un poco de mí"
+author_blurb: "Es un espacio, creado por mí y hablar, idear y conforme la marcha lo descubriremos"
 
 ##################
 # Social Buttons #
