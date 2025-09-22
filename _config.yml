@@ -12,10 +12,12 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
+post-preview-words: 20
 author: "Nicole Nos Villalvazo"
 title: "Nicole"
 post-preview-words: 30
 description: "Me llamo Nicole, soy una persona responsable y siempre me esfuerzo por hacer sonreír a la gente y que se sientan escuchados. Pasé la mayor parte de mi infancia estudiando danza moderna, así que la dedicación y el trabajo en equipo son mis puntos fuertes."
+post-preview-words: 30
 keywords: ["errores", "responsabilidad", "danza", "trabajo en equipo", "escuchar"]
 favicon: "/img/patito.png"
 ################
