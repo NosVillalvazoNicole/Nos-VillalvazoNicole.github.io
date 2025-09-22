@@ -2,7 +2,7 @@
 
 # NB! Set your site's url, otherwise nothing will work
 url: "https:/NosVillalvazoNicole.github.io"
-baseurl: "/"
+baseurl: "https://NosVillalvazoNicole.github.io/"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -15,21 +15,20 @@ lang: "en"
 author: "Nicole Nos Villalvazo"
 title: "NIKITO"
 description:"Me llamo Nicole, soy una persona responsable y siempre me esfuerzo por hacer sonreír a la gente y que se sientan escuchados. Pasé la mayor parte de mi infancia estudiando danza moderna, así que la dedicación y el trabajo en equipo son mis puntos fuertes."
-keywords: "
-"Nos Villalvazo, Nicole, personal"
-favicon: "iconsmelody.png"
+keywords:  ["errores", "responsabilidad", "danza", "trabajo en equipo", "escuchar"]
+favicon: "/img/patito.png"
 ################
 # Header layout#
 ################
-black-favicon: " "
-background-img: "fondo.jpg"
+black-favicon: "/img/910856.png"
+background-img: "/img/backgroun.img"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
 quote:"Un blog y demás"
-me-img: "/img/sanrio.png"
+me-img: "/img/amarillo.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -38,9 +37,10 @@ me-img: "/img/sanrio.png"
 # Blog #
 ########
 
-post-preview-words: "Avanzamos tan rápido que olvidamos disfrutar el recorrido y al llegar a uno de nuestros muchos destinos queremos volver un momento" 
+post-preview-words: "Avanzamos tan rápido que olvidamos disfrutar el recorrido y, al llegar a uno de nuestros muchos destinos queremos volver un momento" 
 paginate: 5 
 email-share: "nvillalvazo97@gmail.com"
+
 
 disqus-shortname: "Nicole Nos"
 
@@ -49,15 +49,15 @@ disqus-shortname: "Nicole Nos"
 ############
 
 events:
-  - image: "/.png"
+  - image: "/img/primerdía.png"
     date: "Agosto 11, 2025"
     description: "Primer día de universidad"
-  - image: "//.jpg"
+  - image: "/img/graduación.png"
     date: "Junio 16, 2025"
     description: "Día de gradución"
 
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/sun.png"
 
 ###########
 # Contact #
@@ -72,8 +72,8 @@ email:"nvillalvazo97@gmail.com"
 # The author blurb goes underneath blog posts.
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
-author_blurb_image: "/img/huevitoconfresa.png"
-author_blurb:"Es un espacio creado por mí para hablar, idear y conforme la marcha lo descubriremos"
+author_blurb_image: "/img/elprincipito.png"
+author_blurb:"Es un espacio creado por mí para hablar, idear y, conforme avancemos, lo iremos descubriendo"
 
 ##################
 # Social Buttons #
@@ -88,11 +88,11 @@ social:
 # Sections shown in the index page
 pages_list:
   About: "about me"
-  "Tengo 18 años, cada 19 de julio celebró mi día especial, actualmente estudió la Licenciatura de Negocios Internacionales"
-  "Espero seguir aprendiendo de Inglés y mejorar mi pronunciación y lograr aprender portugués, es una lengua que me gusta mucho"
+  Edad: "Tengo 18 años. Cada 19 de julio celebró mi día especial, actualmente estudió la Licenciatura de Negocios Internacionales"
+  Idiomas: "Espero seguir aprendiendo de Inglés y mejorar mi pronunciación y lograr aprender portugués, es una lengua que me gusta mucho"
   Blog: "latest-post"
-  
   Contact: "9981929944"
+  
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
