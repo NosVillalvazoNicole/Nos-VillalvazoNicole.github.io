@@ -2,7 +2,7 @@
 
 # NB! Set your site's url, otherwise nothing will work
 url: "https://NosVillalvazoNicole.github.io"
-baseurl: " "
+baseurl: ""
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -109,7 +109,7 @@ exclude:
   - docker-compose.yml
 # Pagination path
 paginate_path: "blog/page:num/"
-# Enable minification SASS
+# Enable minificationSASS
 sass:
   style: compressed
 plugins:
