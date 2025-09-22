@@ -37,7 +37,8 @@ me-img: "/img/amarillo.png"
 # Blog #
 ########
 
-post-preview-words: "Avanzamos tan rápido que olvidamos disfrutar el recorrido y, al llegar a uno de nuestros muchos destinos queremos volver un momento" 
+post-preview-words: 30
+post-preview-message: "Avanzamos tan rápido que olvidamos disfrutar el recorrido y, al llegar a uno de nuestros muchos destinos queremos volver un momento"
 paginate: 5 
 email-share: "nvillalvazo97@gmail.com"
 
