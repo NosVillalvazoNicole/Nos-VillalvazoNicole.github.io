@@ -14,6 +14,7 @@ google-tracking-id: "UA-XXXXXXXX-X"
 lang: "en"
 author: "Nicole Nos Villalvazo"
 title: "NIKITO"
+post-preview-words: 30
 description: "Me llamo Nicole, soy una persona responsable y siempre me esfuerzo por hacer sonreír a la gente y que se sientan escuchados. Pasé la mayor parte de mi infancia estudiando danza moderna, así que la dedicación y el trabajo en equipo son mis puntos fuertes."
 keywords: ["errores", "responsabilidad", "danza", "trabajo en equipo", "escuchar"]
 favicon: "/img/patito.png"
@@ -74,6 +75,7 @@ email: "nvillalvazo97@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 author_blurb_image: "/img/elprincipito.png"
+post-preview-words: 30
 author_blurb: "Es un espacio creado por mí para hablar, idear y, conforme avancemos, lo iremos descubriendo"
 
 ##################
@@ -89,7 +91,7 @@ social:
 # Sections shown in the index page
 pages_list:
   About: "about me"
-  Edad: "Tengo 18 años. Cada 19 de julio celebró mi día especial, actualmente estudió la Licenciatura de Negocios Internacionales"
+  Edad: "Tengo 18 años. Cada 19 de julio celebro mi día especial, actualmente estudio la Licenciatura de Negocios Internacionales"
   Idiomas: "Espero seguir aprendiendo de Inglés y mejorar mi pronunciación y lograr aprender portugués, es una lengua que me gusta mucho"
   Blog: "latest-post"
   Contact: "9981929944"
