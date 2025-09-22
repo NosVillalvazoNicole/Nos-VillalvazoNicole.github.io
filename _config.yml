@@ -1,8 +1,8 @@
 # Nicole Nos Villalvazo
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https:/NosVillalvazoNicole.github.io"
-baseurl: "https://NosVillalvazoNicole.github.io/"
+url: "https://NosVillalvazoNicole.github.io"
+baseurl: " "
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -13,7 +13,7 @@ google-tracking-id: "UA-XXXXXXXX-X"
 
 lang: "en"
 author: "Nicole Nos Villalvazo"
-title: "NIKITO"
+title: "Nicole"
 post-preview-words: 30
 description: "Me llamo Nicole, soy una persona responsable y siempre me esfuerzo por hacer sonreír a la gente y que se sientan escuchados. Pasé la mayor parte de mi infancia estudiando danza moderna, así que la dedicación y el trabajo en equipo son mis puntos fuertes."
 keywords: ["errores", "responsabilidad", "danza", "trabajo en equipo", "escuchar"]
